@@ -1,0 +1,105 @@
+/* Section 1: */
+.section1 a {
+	background: rgba(255,240,216,0.11);
+	border: 1px solid #FFFFFF;
+	-moz-box-shadow:    0px 8px 4px 0px rgba(0,0,0,0.08);
+	box-shadow:         0px 8px 4px 0px rgba(0,0,0,0.08);
+}
+
+h1 {
+	font-family: Znikomit;
+	font-size: 48px;
+	color: #989898;
+	line-height: 64px;
+}
+
+/* Signupbox */
+.email a {
+	border-radius: 4px;
+	background: #FFFFFF;
+	-moz-box-shadow:    inset 1px 1px 2px 0px rgba(171,171,171,0.50), inset -1px -1px 2px 0px rgba(171,171,171,0.50);
+	box-shadow:         inset 1px 1px 2px 0px rgba(171,171,171,0.50), inset -1px -1px 2px 0px rgba(171,171,171,0.50);
+}
+
+/* Signupbutton: */
+.subutton a {
+	border-radius: 20px;
+	background: #E3C4FF;
+}
+
+/* Signuptext: */
+.sutext a {
+	font-family: AvenirNext-UltraLight;
+	font-size: 17px;
+	color: #989898;
+	line-height: 23px;
+}
+
+/* Section 2 */
+.section2 a {
+	background: #FFF6FA;
+	border: 1px solid #FFFFFF;
+	-moz-box-shadow: 0px 8px 4px 0px rgba(0,0,0,0.08);
+	box-shadow: 0px 8px 4px 0px rgba(0,0,0,0.08);
+}
+
+h2 {
+	font-family: Znikomit;
+	font-size: 36px;
+	color: #989898;
+	line-height: 64px;
+}
+
+/* Description Text */
+.description a {
+	font-family: AvenirNext-Bold;
+	font-size: 20px;
+	color: #989898;
+	line-height: 27px;
+}
+
+/* Section 3 */
+.section3 a {
+	background: rgba(216,237,255,0.11);
+	border: 1px solid #FFFFFF;
+	-moz-box-shadow:    0px 8px 4px 0px rgba(0,0,0,0.08);
+	box-shadow:         0px 8px 4px 0px rgba(0,0,0,0.08);
+}
+
+/* Section 3 Nav Bar*/
+.nav a {
+	background: rgba(216,237,255,0.11);
+	border: 1px solid #FFFFFF;
+}
+
+/* Listtitles*/
+.sechead a {
+	font-family: AvenirNext-Regular;
+	font-size: 24px;
+	color: #ABABAB;
+	line-height: 33px;
+}
+
+/* Section 4 */
+.section4 a {
+	background: rgba(255,243,188,0.11);
+	border: 1px solid #FFFFFF;
+	-moz-box-shadow:    0px 8px 4px 0px rgba(0,0,0,0.08);
+	box-shadow:         0px 8px 4px 0px rgba(0,0,0,0.08);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
